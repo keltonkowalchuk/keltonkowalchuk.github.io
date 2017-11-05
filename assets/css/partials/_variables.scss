@@ -1,0 +1,10 @@
+// Colors
+$dark-blue: #34495e;
+$white: #fff;
+
+// Mixins
+@mixin boxSizing() {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
